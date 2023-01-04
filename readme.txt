@@ -1,5 +1,6 @@
-This repository contains branches for the initial collateral for all CST8117 labs in the Winter 2023 semester. 
+Lab 1:
 
-Please use these files when completing your lab projects. 
+cat_with_tie.jpg (Flash Malone the cat sporting a tie)
+catstory.txt (Text for building your web page)
 
 Prof. Frank Emanuel, Ph. D. (c) 2023 permission to copy granted to my students
