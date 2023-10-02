@@ -2,8 +2,7 @@ Lab Collateral for Algonquin IAWD students
 
 Collateral for Lab 5:
 
-  Contains a WORD document of an academic conference paper for conversion.
-  Contains a WORD document of the endnotes for the conference paper for inclusion in formatted document.
+  Contains a text file for the cooking site FAQ page
   Contains an image of a disco ball animated gif
 
 
