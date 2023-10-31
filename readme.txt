@@ -1,4 +1,4 @@
-This repository contains branches for the initial collateral for all CST8117 labs in the Winter 2023 semester. 
+Lab 6 Starter code for JavaScript challenge.  
 
 Please use these files when completing your lab projects. 
 
